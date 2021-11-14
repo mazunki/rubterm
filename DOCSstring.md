@@ -3,7 +3,7 @@
 This file explains how to do the following things using
 the "string" variation of **rubterm**
 
-- How to manipulate text color using
+- How to manipulate text color
 
 - How to manipulate the text cursor position
 
